@@ -1,0 +1,16 @@
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Grades.UnitTests.deps.json
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Grades.UnitTests.runtimeconfig.json
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Grades.UnitTests.runtimeconfig.dev.json
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Grades.UnitTests.dll
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Grades.UnitTests.pdb
+C:\Dev\GradesSolution\Grades.UnitTests\obj\Debug\netcoreapp2.0\Grades.UnitTests.csprojResolveAssemblyReference.cache
+C:\Dev\GradesSolution\Grades.UnitTests\obj\Debug\netcoreapp2.0\Grades.UnitTests.csproj.CoreCompileInputs.cache
+C:\Dev\GradesSolution\Grades.UnitTests\obj\Debug\netcoreapp2.0\Grades.UnitTests.AssemblyInfoInputs.cache
+C:\Dev\GradesSolution\Grades.UnitTests\obj\Debug\netcoreapp2.0\Grades.UnitTests.AssemblyInfo.cs
+C:\Dev\GradesSolution\Grades.UnitTests\obj\Debug\netcoreapp2.0\Grades.UnitTests.dll
+C:\Dev\GradesSolution\Grades.UnitTests\obj\Debug\netcoreapp2.0\Grades.UnitTests.pdb
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Grades.dll
+C:\Dev\GradesSolution\Grades.UnitTests\bin\Debug\netcoreapp2.0\Grades.pdb

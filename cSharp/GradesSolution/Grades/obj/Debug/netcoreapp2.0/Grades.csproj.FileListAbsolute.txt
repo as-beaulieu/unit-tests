@@ -1,0 +1,11 @@
+C:\Dev\GradesSolution\Grades\bin\Debug\netcoreapp2.0\Grades.deps.json
+C:\Dev\GradesSolution\Grades\bin\Debug\netcoreapp2.0\Grades.runtimeconfig.json
+C:\Dev\GradesSolution\Grades\bin\Debug\netcoreapp2.0\Grades.runtimeconfig.dev.json
+C:\Dev\GradesSolution\Grades\bin\Debug\netcoreapp2.0\Grades.dll
+C:\Dev\GradesSolution\Grades\bin\Debug\netcoreapp2.0\Grades.pdb
+C:\Dev\GradesSolution\Grades\obj\Debug\netcoreapp2.0\Grades.csprojResolveAssemblyReference.cache
+C:\Dev\GradesSolution\Grades\obj\Debug\netcoreapp2.0\Grades.csproj.CoreCompileInputs.cache
+C:\Dev\GradesSolution\Grades\obj\Debug\netcoreapp2.0\Grades.AssemblyInfoInputs.cache
+C:\Dev\GradesSolution\Grades\obj\Debug\netcoreapp2.0\Grades.AssemblyInfo.cs
+C:\Dev\GradesSolution\Grades\obj\Debug\netcoreapp2.0\Grades.dll
+C:\Dev\GradesSolution\Grades\obj\Debug\netcoreapp2.0\Grades.pdb
